@@ -1,4 +1,4 @@
-# Day-1-project-
+# Day-1 to 100 project-
 100 days of Python code
 
 
